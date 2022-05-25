@@ -1,0 +1,26 @@
+// UNTRACK ALL
+/*
+
+// PROJECT
+!readme.html
+!README.md
+!.gitignore
+
+// WORDPRESS
+!wp-content
+wp-content/*
+
+    // PLUGINS:
+    !wp-content/plugins
+    wp-content/plugins/*
+    !wp-content/plugins/MY_PLUGIN
+
+    // MU-PLUGINS:
+    !wp-content/mu-plugins
+    wp-content/mu-plugins/*
+    !wp-content/mu-plugins/MY_MUST_USE_PLUGIN
+
+    // THEME:
+    !wp-content/themes
+    wp-content/themes/*
+    !wp-content/themes/MY_THEME
